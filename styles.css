@@ -1,0 +1,11 @@
+p:hover{
+  color: green;
+}
+
+.hello {
+  font-size: 60px
+}
+
+.bears {
+  display : inline-block;
+}
